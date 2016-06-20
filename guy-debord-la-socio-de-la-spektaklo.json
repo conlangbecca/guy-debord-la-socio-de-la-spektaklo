@@ -1,6 +1,12 @@
-{"ĉapitroj":{
+{	"titolo":{
+		"fr":"La société du spectacle",
+		"en":"The Society of the Spectacle",
+		"eo":"La socio de la spektaklo"
+		},
+	"aŭtoro":"Guy Debord",
+	"ĉapitroj":{
 	"1":{
-		"nomo":{
+		"titolo":{
 		"fr":"La séparation achevée",
 		"en":"The Culmination of Separation",
 		"eo":"La apartiĝo elfarita"
@@ -190,7 +196,7 @@
 	 	   }
 	 },
 	 "2":{
- 		 "nomo":{
+ 		 "titolo":{
 			"fr":"",
  			"en":"",
 			"eo":""
@@ -212,7 +218,7 @@
 			 }
 			 },
  	 "3":{
-		 "nomo":{
+		 "titolo":{
 				 "fr":"",
  				 "en":"",
 				 "eo":""
@@ -234,7 +240,7 @@
 			 }
 			 },
   	 "4":{
-		 "nomo":{
+		 "titolo":{
 				 "fr":"",
  				 "en":"",
 				 "eo":""
@@ -256,7 +262,7 @@
 			 }
 		 },
   	 "5":{
-		 "nomo":{
+		 "titolo":{
 				 "fr":"",
  				 "en":"",
 				 "eo":""
@@ -278,7 +284,7 @@
 			 }
 		 },
   	 "6":{
-		 "nomo":{
+		 "titolo":{
 				 "fr":"",
  				 "en":"",
 				 "eo":""
@@ -300,7 +306,7 @@
 			 }
 		 },
   	 "7":{
-		 "nomo":{
+		 "titolo":{
 				 "fr":"",
  				 "en":"",
 				 "eo":""
@@ -322,7 +328,7 @@
 			 }
 		 },
   	 "8":{
-		 "nomo":{
+		 "titolo":{
 				 "fr":"",
  				 "en":"",
 				 "eo":""
@@ -344,7 +350,7 @@
 			 }
 		 },
   	 "9":{
-		 "nomo":{
+		 "titolo":{
 				 "fr":"",
  				 "en":"",
 				 "eo":""
